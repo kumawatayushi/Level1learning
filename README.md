@@ -1,2 +1,2 @@
 # Level1learning
-leaning via coursera
+learning via coursera
